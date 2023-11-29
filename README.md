@@ -7,14 +7,17 @@ BloodBond is a platform designed to facilitate the blood donation and transfusio
 > **Note:** The AWS database used during the demonstration is no longer active.
 ## Usage
 ### Landing Page
+Users will see a landing page where they can select if they are a donor or a doctor, including lab technicians or nurses responsible for data entry.
 <img width="827" alt="Screenshot 2023-11-28 at 11 53 19 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/3fd0c3e1-2269-4dc8-aa03-7d7a19317005">
 
 ### Donor
+Users who select the "Donor" option will be welcomed and prompted to click the "Donate Now" button to register and schedule a blood donation appointment. Clicking the button will redirect them to the donor registration page.
 <img width="828" alt="Screenshot 2023-11-28 at 11 53 34 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/d34728d7-bd41-43a8-a6bf-e3558de9ea9f">
 <img width="829" alt="Screenshot 2023-11-28 at 11 54 09 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/dcaf528b-e091-424a-95a8-49df5d46e7fb">
 <img width="827" alt="Screenshot 2023-11-28 at 11 54 25 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/fa34938a-0460-46e8-9d96-f03db3964d22">
 
 ### Doctor
+When the user clicks on the doctor button on the landing page, they will be directed to a login page where they must enter their valid employee ID. Once logged in, the doctor is directed to the doctor home (main menu).
 <img width="827" alt="Screenshot 2023-11-28 at 11 54 43 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/622d549c-bbeb-4703-9798-510313201cb5">
 <img width="827" alt="Screenshot 2023-11-28 at 11 55 01 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/bf177791-4052-42be-bc34-b75d31b71ecf">
 <img width="830" alt="Screenshot 2023-11-28 at 11 55 42 PM" src="https://github.com/sadia-khandaker/BloodBond/assets/92899511/eb10f97b-4e21-411d-b9da-d318b534a002">
